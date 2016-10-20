@@ -6,3 +6,5 @@ print(simplemath.testfn(10))
 # help(math.sin)
 
 # help("modules")
+
+print(simplemath.tf2())

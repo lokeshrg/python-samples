@@ -1,0 +1,3 @@
+# do not create a python script with existing module
+
+# not that it does not worrk, but that it creates confusion
