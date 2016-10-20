@@ -1,0 +1,7 @@
+# settings.txt
+abc=3000
+ioienoifnwreofni
+defn=C:\remp
+logger=ERROR
+
+test1=454635.34
