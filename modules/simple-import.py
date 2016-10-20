@@ -1,7 +1,8 @@
-import math
+import math, simplemath
 
 print(math.tan(45))
 
-help(math.sin)
+print(simplemath.testfn(10))
+# help(math.sin)
 
-help("modules")
+# help("modules")
