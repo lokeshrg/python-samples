@@ -20,11 +20,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simple-except.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple-except.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exceptions-handling/simple-except.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s-excep-2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exceptions-handling/s-excep-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fin-ally.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exceptions-handling/fin-ally.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -89,6 +109,9 @@
         <option value="$PROJECT_DIR$/oops/inheritance-super.py" />
         <option value="$PROJECT_DIR$/assignments/myfile.py" />
         <option value="$PROJECT_DIR$/exceptions-handling/simple-except.py" />
+        <option value="$PROJECT_DIR$/exceptions-handling/s-excep-2.py" />
+        <option value="$PROJECT_DIR$/exceptions-handling/test.txt" />
+        <option value="$PROJECT_DIR$/exceptions-handling/fin-ally.py" />
       </list>
     </option>
   </component>
@@ -242,41 +265,7 @@
       <recent name="C:\Users\admin\Documents\python-samples\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.simple-except">
-    <configuration default="false" name="operator emulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-samples" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/operator emulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="inheritancesuper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-samples" />
-      <option name="SCRIPT_NAME" value="C:\Users\admin\Documents\python-samples\oops\inheritance-super.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.fin-ally">
     <configuration default="false" name="inheritance-super" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,6 +313,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-samples" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptions-handling/simple-except.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="s-excep-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptions-handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-samples" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptions-handling/s-excep-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fin-ally" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptions-handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-samples" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptions-handling/fin-ally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -463,19 +486,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.operator emulation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.inheritancesuper" />
-      <item index="2" class="java.lang.String" itemvalue="Python.inheritance-super" />
-      <item index="3" class="java.lang.String" itemvalue="Python.myfile" />
-      <item index="4" class="java.lang.String" itemvalue="Python.simple-except" />
+      <item index="0" class="java.lang.String" itemvalue="Python.inheritance-super" />
+      <item index="1" class="java.lang.String" itemvalue="Python.myfile" />
+      <item index="2" class="java.lang.String" itemvalue="Python.simple-except" />
+      <item index="3" class="java.lang.String" itemvalue="Python.s-excep-2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fin-ally" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.simple-except" />
-        <item index="1" class="java.lang.String" itemvalue="Python.myfile" />
-        <item index="2" class="java.lang.String" itemvalue="Python.inheritance-super" />
-        <item index="3" class="java.lang.String" itemvalue="Python.inheritancesuper" />
-        <item index="4" class="java.lang.String" itemvalue="Python.operator emulation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fin-ally" />
+        <item index="1" class="java.lang.String" itemvalue="Python.s-excep-2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple-except" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myfile" />
+        <item index="4" class="java.lang.String" itemvalue="Python.inheritance-super" />
       </list>
     </recent_temporary>
   </component>
@@ -536,27 +559,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions/func-test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/test-a3-func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -899,6 +901,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions-handling/s-excep-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions-handling/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptions-handling/fin-ally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
