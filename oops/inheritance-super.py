@@ -1,7 +1,10 @@
-import simpleclass
+# import simpleclass
+# OR
+from simpleclass import Maximus
 
 
-class Life(simpleclass.Maximus):
+# class Life(simpleclass.Maximus):
+class Life(Maximus):
     def __init__(self):
         self.exam = 'test'
         self.superv = '1'
